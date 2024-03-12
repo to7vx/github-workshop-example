@@ -1,1 +1,8 @@
 Hello git
+things we did
+ - git init
+ - git remote add origin
+ - git status
+ - git add example.txt
+ - git commit -m 'msg'
+ - git push origin main
